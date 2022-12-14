@@ -19,12 +19,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![Desktop](./screenshots/desktop.png)
 
-![Mobile](screenshots/mobile.png)
+![Mobile](screenshots/mobile-resized.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live Preview](https://larrasu.github.io/fm-qr-code-component/)
 
 ## My process
 
